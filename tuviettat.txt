@@ -1,0 +1,158 @@
+ko,không
+k,không
+kg,không
+khg,không
+hok,không
+ntn,như thế nào
+tk,tài khoản
+đc,được
+dc,được
+tl,trả lời
+bt,bình thường
+thks,cảm ơn
+tks,thanks
+ty,tình yêu
+ny,người yêu
+ck,chuyển khoản
+vk,vợ
+add,address
+ad,quản trị viên
+ava,avatar
+bb,bye bye
+clgt,cái l*n gì thế
+đkm,địt mẹ
+vl,vãi l*n
+vkl,vãi cả l*n
+klq,không liên quan
+cx,cũng
+đcmm,địt con mẹ mày
+đm,địt mẹ
+vch,vãi chưởng
+vcc,vãi cả c*t
+ib,nhắn tin riêng
+qtv,quản trị viên
+gg,Google
+fb,Facebook
+atm,automatic teller machine
+m,mình
+mik,mình
+tr,triệu
+s,sao
+đ,đồng
+kz,khoảng
+j,gì
+cn,chính hãng
+pt,phương tiện
+hh,hoa hồng
+hnay,hôm nay
+hqua,hôm qua
+thứ 2,thứ hai
+thứ 3,thứ ba
+thứ 4,thứ tư
+thứ 5,thứ năm
+thứ 6,thứ sáu
+thứ 7,thứ bảy
+acc,account
+hth,hoàn thành
+lh,liên hệ
+chx,chưa
+nx,nhận xét
+mn,mọi người
+stt,status
+mt,màn hình
+qh,quan hệ
+sn,sinh nhật
+tn,tin nhắn
+kn,kỷ niệm
+sv,sinh viên
+hs,học sinh
+thcs,trung học cơ sở
+thpt,trung học phổ thông
+bqt,ban quản trị
+trc,trước
+sdt,số điện thoại
+đt,điện thoại
+vs,với
+trg,trong
+pls,please
+u,you
+f,facebook
+là,là
+thấy,thấy
+a,anh
+e,em
+v,và
+nh,nhưng
+kh,kế hoạch
+th,thực hành
+ch,chất lượng
+h,hỏi
+c,chị
+biết,biết
+n,nó
+ng,người
+oh,ồ
+nchung,nói chung
+cl,cái l*n
+o,ở
+thế,thế
+giờ,giờ
+nt,nhắn tin
+g,giờ
+khác,khác
+ph,phút
+b,bạn
+y,yêu
+km,khuyến mãi
+nv,nhân viên
+q,quận
+tp,thành phố
+dt,điện thoại
+ok,đồng ý
+gts,giải thích
+gđ,gia đình
+bs,bác sĩ
+gv,giáo viên
+sp,sản phẩm
+shop,cửa hàng
+vd,ví dụ
+gh,giao hàng
+qc,quảng cáo
+tt,thông tin
+bh,bảo hiểm
+hd,hướng dẫn
+tv,tư vấn
+dv,dịch vụ
+td,thời gian
+mg,mã giảm
+dh,đơn hàng
+ht,hoàn thành
+qn,quận
+cc,chất lượng
+tq,tốt quá
+tuyệt,tuyệt vời
+đẹp,đẹp lắm
+giá,giá rẻ
+r,rất
+thjk,thích
+sz,size
+màu,màu sắc
+vv,vân vân
+khá,khá tốt
+cmt,bình luận
+rep,trả lời
+zalo,Zalo
+yt,YouTube
+đh,đơn hàng
+gt,giới thiệu
+lv,làm việc
+ql,quản lý
+p,phòng
+kb,kết nối
+dn,đăng nhập
+đk,đăng ký
+ns,nhân sự
+pc,máy tính
+cb,cân bằng
+qđ,quy định
+qt,quy trình
